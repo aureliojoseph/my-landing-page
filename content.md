@@ -69,7 +69,7 @@
 ### Skill Set
 
 - Hard Skills
-  --> HTML5, CSS3, JavaScript
+  --> HTML5, CSS3, JavaScript, React.js
   --> Strategic Planning, Analysis of Scenarios, Decision Making
   --> Development and Application of Processes
   --> Financial and Administrative
@@ -108,6 +108,10 @@
 
 - Education -
 
+  --> LinkedIn Learning (https://www.linkedin.com/learning/)
+  ----> Course — React.js Essential Training.
+  ----> Feb 2022 - Present
+
   --> Udemy, Inc (https://www.udemy.com/)
   ----> The Complete JavaScript Course - From Zero to Expert.
   ----> Dec 2021 - Present
@@ -131,6 +135,9 @@
 ### Portfolio
 
 - omnifood (https://omnifood-aureliojoseph.netlify.app/)
+- jogo do destino (https://jogododestino.netlify.app/)
+- guess the number (https://acerte-o-numero-english.netlify.app/)
+- acerte o número (https://acerte-o-numero.netlify.app/)
 - landing page 1.1 (https://landing-page-1-1.netlify.app/)
 - landing page 1.0 (https://landing-page-1-0.netlify.app/)
 
