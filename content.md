@@ -1,24 +1,20 @@
-# ### 1 DEFINITIONS
+# 1 - DEFINITIONS
 
-# ## WHO
-
+## WHO
 - Aurelio Borges Landing Page - CV
 
-# ## WHAT
-
-# # Business Goal
-
+## WHAT
+**Business Goal**
 - Show my resume and portfolio
 
-# # TARGET AUDIENCE
-
+## FOR WHOM
+**Target Audience**
 - Tecnology Companies
 
-# ### 2 PLANNING
+# 2 - PLANNING
 
-# ## WEBSITE PERSONALITY
-
-- Minimalist/Simple -
+## WEBSITE PERSONALITY
+Minimalist/Simple:
 
   --> Focusses on the essential text content
   
@@ -26,61 +22,53 @@
   
   --> Uses few images and icons
 
-# ### SECTIONS
+# 3 - SECTIONS
 
-# ## HEADER
+## HEADER
 
-- Logo -
+Logo
 
-- Navigation -
+Navigation:
 
-  --> Link|About
+  --> Link | About
   
-  --> Link|Skill Set
+  --> Link | Skill Set
   
-  --> Link|Experience
+  --> Link | Experience
   
-  --> Link|My Work
+  --> Link | My Work
   
-  --> Link|Contact
+  --> Link | Contact
 
-# ## Hero
+## Hero
 
-- Sub-heading -
+Sub-heading --> Aurelio Borges
 
-  --> Aurelio Borges
+Headline --> Building modern and stunning websites. Leading people and companies to their goals!
 
-- Headline -
+Hero Text --> Frontend Developer & Strategic Manager
 
-  --> Building modern and stunning websites.
-  
-  --> Leading people and companies to their goals!
+Hero Img (Profile Photo)
 
-- Hero Text  
-  
-  --> Frontend Developer & Strategic Manager
+View my Work Button - 1st
 
-- Hero Img (Profile Photo)-
+Get in Touch Button - 2nd
 
-- View my Work Button - 1st -
+## About
 
-- Get in Touch Button - 2nd -
+Since 2008 I've been working on Business Management, helping people improve their skills and companies achieve their goals.
 
-# ## About
+In 2011, I started a retail franchise Business where I coordinate financial and administrative areas, managing 2 stores.
 
-- Since 2008 I've been working on Business Management, helping people improve their skills and companies achieve their goals.
+The programming world started recently as a curiosity and turned out to be an infinite universe where I see myself in. Therefore, I started to learn the path to become a Web Developer.
 
-- In 2011, I started a retail franchise Business where I coordinate financial and administrative areas, managing 2 stores.
+My background as a Consultant and in Management has shown me that a solid Strategic Plan inspires a stronger sense of belonging for people at organizations, and this is also valid for customers' experience, directly reflecting on the performance of the company and the product. And that is why I am very interested about users interactions and how it affects their experience of products and services.
 
-- The programming world started recently as a curiosity and turned out to be an infinite universe where I see myself in. Therefore, I started to learn the path to become a Web Developer.
+I am currently an Associate Consultant at Miguelina Borges (link) Consultoria Empresarial, the Administrative and Financial Manager for Kidstok (link) Buriti and Cerrado, and I am freelancing as a Frontend Web Developer.
 
-- My background as a Consultant and in Management has shown me that a solid Strategic Plan inspires a stronger sense of belonging for people at organizations, and this is also valid for customers' experience, directly reflecting on the performance of the company and the product. And that is why I am very interested about users interactions and how it affects their experience of products and services.
+## Skill Set
 
-- I am currently an Associate Consultant at Miguelina Borges (link) Consultoria Empresarial, the Administrative and Financial Manager for Kidstok (link) Buriti and Cerrado, and I am freelancing as a Frontend Web Developer.
-
-# ## Skill Set
-
-- Hard Skills
+### Hard Skills
 
   --> HTML5, CSS3, JavaScript, React.js
   
@@ -90,7 +78,7 @@
   
   --> Financial and Administrative
 
-- Soft Skills -
+### Soft Skills
 
   --> Organization and Communication
   
@@ -98,85 +86,73 @@
   
   --> Teamwork and team development
 
-# ## Experience
+## Experience
 
-- Careers -
+### Careers
   
-  --> Freelancer
-  ----> Oct 2021 - Present
+  **Freelancer || Oct 2021 - Present**
   
-  --> Frontend Web Developer
+  - Frontend Web Developer || Freelancing as a Web Developer, building fully responsive websites and web applications
   
-  ----> Freelancing as a Web Developer, building fully responsive websites and web applications
-  
-  \*\*location icon (Remote, Brazil)
+  - Location icon (Remote, Brazil)
 
-  --> Miguelina Borges Business Consulting
-  ----> Nov 2008 - Present
+  **Miguelina Borges Business Consulting || Nov 2008 - Present**
   
-  --> Associate Consultant
+  - Associate Consultant || Focused on Strategic Planning, Analysis of Scenarios, Decision Making, Management and Leadership Skills, Development and Application of Processes, Development and Management of Teams.
   
-  ----> Focused on Strategic Planning, Analysis of Scenarios, Decision Making, Management and Leadership Skills, Development and Application of Processes, Development and Management of Teams.
-  
-  \*\*location icon (Brazil) | url icon https://www.linkedin.com/company/miguelinaborges
+  - Location icon (Brazil) | url icon | https://www.linkedin.com/company/miguelinaborges
 
-  --> Kidstok Buriti & Cerrado
-  ----> Jul 2018 - Present
+  **Kidstok Buriti & Cerrado || Jul 2018 - Present**
   
-  --> Franchise Owner
+  - Franchise Owner || Coordination of Administrative and Financial areas, H.R., inventory control, accounting documents control, analysis and decision making.
   
-  ----> Coordination of Administrative and Financial areas, H.R., inventory control, accounting documents control, analysis and decision making.
-  
-  \*\*location icon (Goiânia-GO, Brazil) | url icon https://www.instagram.com/kidstok.goiania/
+  - Location icon (Goiânia-GO, Brazil) | url icon | https://www.instagram.com/kidstok.goiania/
 
-  --> Tegra Incorporadora (Former MB Engenharia)
-  ----> Oct 2003 - Feb 2007
+  **Tegra Incorporadora (Former MB Engenharia) || Oct 2003 - Feb 2007**
   
-  --> Internship
+  - Internship || Junior analyst at Administrative and Financial Departments.
   
-  ----> Junior analyst at Administrative and Financial Departments.
-  
-  \*\*location icon (Goiânia-GO, Brazil) | url icon http://tegraincorporadora.com.br
+  - Location icon (Goiânia-GO, Brazil) | url icon | http://tegraincorporadora.com.br
 
-- Education -
+### Education
 
-  --> LinkedIn Learning (https://www.linkedin.com/learning/)
+  **LinkedIn Learning (https://www.linkedin.com/learning/)**
   
-  ----> Course — React.js Essential Training.
+  - Course — React.js Essential Training
   
-  ----> Feb 2022 - Present
+  - Feb 2022 - Present
 
-  --> Udemy, Inc (https://www.udemy.com/)
+  **Udemy, Inc (https://www.udemy.com/)**
   
-  ----> The Complete JavaScript Course - From Zero to Expert.
+  - The Complete JavaScript Course - From Zero to Expert
   
-  ----> Dec 2021 - Present
+  - Dec 2021 - Present
 
-  --> Udemy, Inc (https://www.udemy.com/)
+  **Udemy, Inc (https://www.udemy.com/)**
   
-  ----> Course - Build Responsive Real World Websites with HTML and CSS.
+  - Course - Build Responsive Real World Websites with HTML and CSS
   
-  ----> Sep 2021 - Nov 2021
+  - Sep 2021 - Nov 2021
 
-  --> Rocketseat (https://www.rocketseat.com.br/discover)
+  **Rocketseat (https://www.rocketseat.com.br/discover)**
   
-  ----> Discover Course - The programming fundamentals. HTML and CSS guides.
+  - Discover Course - The programming fundamentals. HTML and CSS guides
   
-  ----> Sep 2021 - Oct 2021
+  - Sep 2021 - Oct 2021
 
-  --> Invisible College (https://theinvisiblecollege.com.br/cursos/)
+  **Invisible College (https://theinvisiblecollege.com.br/cursos/)**
   
-  ----> Course - Call to Action - Christian ethics applied to marketing and communication.
+  - Course - Call to Action - Christian ethics applied to marketing and communication
   
-  ----> Jun 2021 - Jul 2021
+  - Jun 2021 - Jul 2021
 
-  --> Salgado de Oliveira University (https://universo.edu.br/)
+  **Salgado de Oliveira University (https://universo.edu.br/)**
   
-  ----> Bachelor in Business Administration.
+  - Bachelor in Business Administration
   
-  ----> Jan 2003 - Dec 2008
+  - Jan 2003 - Dec 2008
 
-# ## Portfolio
+## Portfolio
 
 - omnifood (https://omnifood-aureliojoseph.netlify.app/)
 
@@ -190,7 +166,7 @@
 
 - landing page 1.0 (https://landing-page-1-0.netlify.app/)
 
-# ## Footer
+## Footer
 
 - Logo + Location
 
